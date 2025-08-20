@@ -24,3 +24,14 @@ I wrote a short description of this project on my blog (PL):
    git clone https://github.com/summerglaze/JS-decimal-to-binary-converter.git
    ```
 2. Open index.html in your browser.
+
+## How to use
+1. Enter a **non-negative integer** (e.g., `13`) in the input.
+2. Click **Convert** (or press **Enter**).
+3. See the binary result below the form.
+
+## Examples
+- `13` → `1101`
+- `0` → `0`
+- `255` → `11111111`
+
